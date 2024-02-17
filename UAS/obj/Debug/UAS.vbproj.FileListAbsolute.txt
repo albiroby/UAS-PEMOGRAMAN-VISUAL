@@ -1,0 +1,12 @@
+D:\VB\UAS\UAS\bin\Debug\UAS.exe.config
+D:\VB\UAS\UAS\bin\Debug\UAS.exe
+D:\VB\UAS\UAS\bin\Debug\UAS.pdb
+D:\VB\UAS\UAS\bin\Debug\UAS.xml
+D:\VB\UAS\UAS\obj\Debug\UAS.vbproj.AssemblyReference.cache
+D:\VB\UAS\UAS\obj\Debug\UAS.Form1.resources
+D:\VB\UAS\UAS\obj\Debug\UAS.Resources.resources
+D:\VB\UAS\UAS\obj\Debug\UAS.vbproj.GenerateResource.cache
+D:\VB\UAS\UAS\obj\Debug\UAS.vbproj.CoreCompileInputs.cache
+D:\VB\UAS\UAS\obj\Debug\UAS.exe
+D:\VB\UAS\UAS\obj\Debug\UAS.xml
+D:\VB\UAS\UAS\obj\Debug\UAS.pdb
